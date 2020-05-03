@@ -11,7 +11,8 @@ output:
 ## R Markdown
 ```{r}
 ## insert your brilliant WORKING code here
-```
 dado <- c(1:6)
 dados = 4
 replicate(dados, sample(dado))
+```
+
